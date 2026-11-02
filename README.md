@@ -1,3 +1,1 @@
-# git
-
-My Git project.
+# Ming-Game-Recharge
